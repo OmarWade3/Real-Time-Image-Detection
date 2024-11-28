@@ -23,5 +23,10 @@ This repository contains:
 
 **Note**: Press **`q`** to exit the webcam feed.
 
+## Model Download
+You can download the pre-trained model from the following link:
+- [Download pre_trained_model.pt](https://drive.google.com/file/d/1924f5kDbKNe_A9gDnHimRVhwQM_jU0cD/view?usp=sharing)
+
+
 
 
